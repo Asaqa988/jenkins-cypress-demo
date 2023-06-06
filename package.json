@@ -4,7 +4,7 @@
   "description": "\"# jenkins-cypress-demo\"",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "test"
 
   },
   "repository": {
